@@ -2,6 +2,7 @@
 A robust digital book marketing platform built with React and Node.js.
 
 Features
+
 Comprehensive Book Catalog Management
 Seamless database integration for efficient cataloging and management of digital books.
 
