@@ -1,4 +1,5 @@
-Marketing digital books with React and Node.js
+
+Marketing digital books with React and Node.js - vibe coding  with Replit and Cursor
 Database integration for book catalog management
 User accounts for personalized recommendations
 Advanced analytics dashboard
